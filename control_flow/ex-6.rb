@@ -1,0 +1,1 @@
+We get this error because if..else statement is missing a closing keyword 'end' and that is being mixed with the 'end' keyword of the method.

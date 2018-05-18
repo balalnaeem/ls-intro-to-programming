@@ -1,0 +1,1 @@
+# According to the error, we are calling a method caled 'calculate product' which requires two arguments but we are only providing it one.
